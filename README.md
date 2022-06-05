@@ -8,6 +8,7 @@
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
+🔖 ORIGAMID: https://www.origamid.com <br>
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 🔖 DIO: https://www.digitalinnovation.one <br>
 🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
